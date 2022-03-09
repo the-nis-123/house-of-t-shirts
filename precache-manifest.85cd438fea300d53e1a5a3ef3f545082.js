@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8429d756c05fcb283f05",
+    "revision": "859356fa0adf376e9ee0",
     "url": "/house-of-t-shirts/static/css/main.48553ce5.chunk.css"
   },
   {
-    "revision": "8429d756c05fcb283f05",
-    "url": "/house-of-t-shirts/static/js/main.8429d756.chunk.js"
+    "revision": "859356fa0adf376e9ee0",
+    "url": "/house-of-t-shirts/static/js/main.859356fa.chunk.js"
   },
   {
     "revision": "3c4d52a22b061836d472",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/house-of-t-shirts/static/media/logo.a11e2031.png"
   },
   {
-    "revision": "218fd3213ee225aa6d45dc4ed5a1dd58",
+    "revision": "3fb47f8d36c68a43f05c7f9355c9e1a8",
     "url": "/house-of-t-shirts/index.html"
   }
 ];
