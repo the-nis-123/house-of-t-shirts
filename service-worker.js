@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/house-of-t-shirts/precache-manifest.86c3fe260be1477e992c698eedaadee4.js"
+  "/house-of-t-shirts/precache-manifest.5c962d27e624b929607fc8fe8af2d636.js"
 );
 
 workbox.clientsClaim();
